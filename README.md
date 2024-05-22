@@ -15,7 +15,7 @@ or
             pip install opencv-python face_recognition cvzone firebase-admin numpy
 
 
-### delete all files from data folder excluding haarcascade file
+### If you want to train on new data then delete all files from data folder excluding haarcascade file
 ### Also delete the attendance.csv from attandance folder
 
 
